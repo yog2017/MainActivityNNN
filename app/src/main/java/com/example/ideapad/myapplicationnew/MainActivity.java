@@ -2,9 +2,6 @@ package com.example.ideapad.myapplicationnew;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.Button;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
    // add code here if you want
         
         
-        // added new code in this file
+        // added modified code in this file
         
     }
 }
