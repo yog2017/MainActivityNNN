@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
                 // some code here type
 
                 Toast.makeText(MainActivity.this, "Duplicate", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "main", Toast.LENGTH_SHORT).show();
+
+
 
             }
         });
