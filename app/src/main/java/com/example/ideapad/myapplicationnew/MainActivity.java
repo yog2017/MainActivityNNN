@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    Button abc = null;
+    Button abc = (Button)findViewById(R.id.search_close_btn);
 
         abc.setOnClickListener(new View.OnClickListener() {
             @Override
