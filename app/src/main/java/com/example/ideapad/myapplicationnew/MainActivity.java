@@ -10,6 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-     // removed changes 
+    // Main Accont 
+        int a;
+        int b;
+        int c=a+b;
+        
     }
 }
