@@ -10,10 +10,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    // Main Accont 
-        int a;
-        int b;
-        int c=a+b;
+    Button abc = null;
+
+        abc.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                
+                // some code here type 
+
+                Toast.makeText(MainActivity.this, "orignal", Toast.LENGTH_SHORT).show();
+
+            }
+        });
         
     }
 }
