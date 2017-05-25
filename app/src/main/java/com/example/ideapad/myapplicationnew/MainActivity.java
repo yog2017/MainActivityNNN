@@ -10,7 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        int a=20;
-        // super code type two
+        int a=500;
+        int b=90;
+
+        int c=a*b;
     }
 }
