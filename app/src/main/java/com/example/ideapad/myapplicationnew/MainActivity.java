@@ -13,24 +13,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    Button efg = (Button)findViewById(R.id.search_close_btn);
-
-        efg.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                // some code here type
-
-                Toast.makeText(MainActivity.this, "Duplicate", Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this, "main", Toast.LENGTH_SHORT).show();
-
-
-                Toast.makeText(MainActivity.this, "main", Toast.LENGTH_SHORT).show();
-
-
-
-            }
-        });
+   // add code here if you want
+        
+        
+        // added new code in this file
         
     }
 }
