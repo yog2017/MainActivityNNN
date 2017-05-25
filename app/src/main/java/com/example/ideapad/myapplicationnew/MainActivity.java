@@ -13,9 +13,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    Button abc = (Button)findViewById(R.id.search_close_btn);
+    Button efg = (Button)findViewById(R.id.search_close_btn);
 
-        abc.setOnClickListener(new View.OnClickListener() {
+        efg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
