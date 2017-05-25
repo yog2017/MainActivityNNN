@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-       // Test branch - some code 
+       // Test branch - Theire code 
 
 
     }
