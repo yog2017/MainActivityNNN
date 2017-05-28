@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
            public void add(){
 
 
-        int a=10+50;
+        int a=15+50;
     }
 
 
