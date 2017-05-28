@@ -24,5 +24,11 @@ public class MainActivity extends AppCompatActivity {
         String changes_from_main_account = "changes from 2017 account";
         
     }
-    
+
+    private void local_branch_changes_20(){
+
+        String changes_from_share_account = "changes from 20 account";
+
+    }
+
 }
