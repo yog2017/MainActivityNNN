@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);}
 
 
-           public void add(){
+           public void addedFile(){
 
 
         int a=15+50;
