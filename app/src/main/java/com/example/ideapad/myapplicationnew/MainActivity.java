@@ -10,13 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);}
 
+    void multiplication(){
 
-           public void addedFile(){
-
-
-        int a=15+50;
+        //we added multiplication
     }
-
 
     }
 
