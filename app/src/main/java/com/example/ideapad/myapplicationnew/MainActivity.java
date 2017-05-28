@@ -10,18 +10,27 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
-    // Commit in 011
 
 
 }
+//
+//    private void setupViewPager(ViewPager viewPager) {
+//        ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
+//        DueFragment dueFragment =new DueFragment();
+//        iDataPassDue= dueFragment;
+//        LateFragment lateFragment =new LateFragment();
+//        iDataPassLate= lateFragment;
+//        PaidFragment paidFragment =new PaidFragment();
+//        iDataPassPaid= paidFragment;
+//
+//        String due=getResources().getString(R.string.due_lable);
+//        String late=getResources().getString(R.string.late_lable);
+//        String paid=getResources().getString(R.string.paid_lable);
+//
+//        adapter.addFragment(dueFragment, due);
+//        adapter.addFragment(lateFragment, late);
+//        adapter.addFragment(paidFragment, paid);
+//        viewPager.setAdapter(adapter);
+    }
 
-}
+
