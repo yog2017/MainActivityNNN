@@ -11,12 +11,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+           public void add(){
 
+        int a=10+50;
     }
 
-    public void add(){
 
-        int b=90+100;
     }
+    
 
 }
