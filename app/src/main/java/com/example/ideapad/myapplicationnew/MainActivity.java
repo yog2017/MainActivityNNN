@@ -18,4 +18,11 @@ public class MainActivity extends AppCompatActivity {
 
         int i=3+3;
     }
+    
+    private void Example(){
+
+        String changes_from_main_account = "changes from 2017 account";
+        
+    }
+    
 }
