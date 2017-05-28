@@ -10,8 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);}
 
-    void multiplication(){
 
+    void modificationFile(){
+
+    //jhdhjwbfhwbfjwfbwjfbwjjfbwjfbwfbewfbewfjb
         //we added multiplication
 
         //hjbchachvh
