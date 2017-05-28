@@ -13,7 +13,17 @@ public class MainActivity extends AppCompatActivity {
     void multiplication(){
 
         //we added multiplication
+
+        //hjbchachvh
     }
 
+    void multiplicationF(){
+
+        //we added multiplication
+
+        //hjbchachvh
     }
+
+
+}
 
