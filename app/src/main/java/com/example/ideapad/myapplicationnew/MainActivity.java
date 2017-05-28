@@ -10,21 +10,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);}
 
-
-    void modificationFile(){
-
-    //jhdhjwbfhwbfjwfbwjfbwjjfbwjfbwfbewfbewfjb
-        //we added multiplication
-
-        //hjbchachvh
-    }
-
-    void multiplicationF(){
-
-        //we added multiplication
-
-        //hjbchachvh
-    }
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
+    // Commit in master
 
 
 }
