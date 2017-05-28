@@ -11,28 +11,28 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
 }
-
-
-//
+    
+    //
 //    private void setupViewPager(ViewPager viewPager) {
 //        ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
 //        DueFragment dueFragment =new DueFragment();
 //        iDataPassDue= dueFragment;
-//        LateFrj,hvfkagment lateFragment =new LateFragment();
-//        iDataPassLatjbjkdsbe= lateFragment;
-//        PaidFragment paidFr,bvjdsbvagment =new PaidFragment();
-//        iDataPassPaid= paidFragment,bv,dsbv;
+//        LateFragment lateFragment =new LateFragment();
+//        iDataPassLate= lateFragment;
+//        PaidFragment paidFragment =new PaidFragment();
+//        iDataPassPaid= paidFragment;
 //
 //        String due=getResources().getString(R.string.due_lable);
-//        Strimnmdsvbng late=getResources().getString(R.string.late_lable);
-//        String paid,,vdn,dsvn=getResources().getString(R.string.paid_lable);
+//        String late=getResources().getString(R.string.late_lable);
+//        String paid=getResources().getString(R.string.paid_lable);
 //
 //        adapter.addFragment(dueFragment, due);
-//        adapter.addFragment(l,mvdmds,vbdjsvbateFragment, late);
-//        adapter.addFragment(paidFragment, pa,vvbdsvbid);
-//        viewPager.setAdapter(adapthhdhdfer);
+//        adapter.addFragment(lateFragment, late);
+//        adapter.addFragment(paidFragment, paid);
+//        viewPager.setAdapter(adapter);
+
+
 
 
     }
