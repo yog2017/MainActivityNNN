@@ -5,4 +5,12 @@ package com.example.ideapad.myapplicationnew;
  */
 
 public class rm {
+
+
+
+    // reset
+
+    // revert
+
+    // test_1 commit
 }
