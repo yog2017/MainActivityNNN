@@ -45,9 +45,16 @@ public class MainActivity extends AppCompatActivity {
 
 
         //A
+
+
+
         //B
         // O2 A
+
+
         // O2 B
+
+        //git stash 3
 }
 
     }
